@@ -26,7 +26,7 @@ Load balancing ensures that the application will be highly available, in additio
 
 Load balancers protect the availability aspect of security.
 
-Integrating an ELK server allows users to easily monitor the vulnerable VMs for changes to the _____ and system files.
+Integrating an ELK server allows users to easily monitor the vulnerable VMs for changes to the application and system files.
 
 The configuration details of each machine may be found below.
 
